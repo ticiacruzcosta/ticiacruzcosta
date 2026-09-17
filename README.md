@@ -23,7 +23,4 @@ Estudante no Unisapiens e estagiária de TI no TJRO, com foco em Análise de Dad
   <a href="mailto:ticiacosta97@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>
-  <a href="https://web.dio.me" target="_blank">
-    <img src="https://img.shields.io/badge/ARTIGO_DIO-E41355?style=for-the-badge&logo=readme&logoColor=white" height="32" />
-  </a>
 </div>
