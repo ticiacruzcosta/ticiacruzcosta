@@ -1,6 +1,6 @@
 ### Oiii eu sou a Letícia Cruz Costa, graduanda em Engenharia da Computação! 👋
 
-Estudante no Unisapiens e estagiária de TI no TJRO, com foco em Análise de Dados e Business Intelligence para resolução de problemas reais e tomada de decisão.
+Estudante no Centro Universitário Unisapiens e estagiária de TI no TJRO, com foco em Análise de Dados e Business Intelligence para resolução de problemas reais e tomada de decisão.
 
 <br>
 
