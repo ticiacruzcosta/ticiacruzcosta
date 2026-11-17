@@ -1,23 +1,16 @@
-### Oiii eu sou a Letícia Cruz Costa, graduanda em Engenharia da Computação! 👋
+### Oii, eu sou a Letícia Cruz Costa! 👋
 
-Estudante no Centro Universitário Unisapiens e estagiária de TI no TJRO, com foco em Análise de Dados e Business Intelligence para resolução de problemas reais e tomada de decisão.
+Estudante de Engenharia da Computação (7º período) e Desenvolvedora com foco em Inteligência Artificial, Automação e Desenvolvimento Full-Stack. Apaixonada por criar soluções de ponta a ponta e usar a IA como alavanca para resolver problemas reais de negócio.
 
-<br>
+#### 💻 Meu Stack e Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
-</div>
-
-<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/leticia-cruz-costa" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-  </a>
-  <a href="mailto:ticiacosta97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
-  </a>
-</div>
+#### 📬 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leticia-cruz-costa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ticiacosta97@gmail.com)
