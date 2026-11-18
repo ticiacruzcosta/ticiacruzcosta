@@ -1,6 +1,6 @@
 ### Oii, eu sou a Letícia Cruz Costa! 👋
 
-Estudante de Engenharia da Computação (7º período) focada na interseção entre **Dados, Inteligência Artificial aplicada, Desenvolvimento Full-Stack e UI/UX**. Gosto de construir soluções de ponta a ponta — da organização de dados e automação com IA até interfaces intuitivas para resolver problemas reais de negócio.
+Estudante de Engenharia da Computação (7º período) focada na interseção entre **Dados, Inteligência Artificial aplicada, Desenvolvimento Full-Stack e UI/UX**. Gosto de construir soluções de ponta a ponta  da organização de dados e automação com IA até interfaces intuitivas para resolver problemas reais de negócio.
 
 ---
 
