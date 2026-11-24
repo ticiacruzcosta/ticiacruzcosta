@@ -35,6 +35,8 @@ IA aplicada e UX/UI. Estou aberta a oportunidades de estágio e emprego.
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/8b5cf6/ticiacruzcosta" alt="Contribuições no GitHub" width="95%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ticiacruzcosta&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="Gráfico de contribuições" width="95%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ticiacruzcosta&show_icons=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d" alt="Estatísticas do GitHub" height="170" />
